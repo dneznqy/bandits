@@ -1,0 +1,242 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban1_blue_DE",
+      "pos": [
+        10402.854492,
+        220.525421,
+        8945.669922
+      ],
+      "ypr": [
+        -79.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_blue_DE",
+      "pos": [
+        10399.151367,
+        220.598724,
+        8949.803711
+      ],
+      "ypr": [
+        -159.999954,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        10397.644531,
+        220.482285,
+        8958.532227
+      ],
+      "ypr": [
+        -60.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        10401.074219,
+        220.023575,
+        8950.042969
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Black",
+      "pos": [
+        10403.208008,
+        219.680283,
+        8951.585938
+      ],
+      "ypr": [
+        14.112408,
+        90.0,
+        179.999924
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        10402.59375,
+        219.621536,
+        8951.798828
+      ],
+      "ypr": [
+        178.099258,
+        90.0,
+        179.999954
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TetracyclineAntibiotics",
+      "pos": [
+        10402.765625,
+        219.643204,
+        8953.224609
+      ],
+      "ypr": [
+        111.564056,
+        90.0,
+        179.999924
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Deagle",
+      "pos": [
+        10401.375977,
+        219.6987,
+        8951.913086
+      ],
+      "ypr": [
+        -168.826523,
+        90.0,
+        179.999939
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        10401.076172,
+        220.417938,
+        8950.011719
+      ],
+      "ypr": [
+        98.984337,
+        90.0,
+        179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitPants_Black",
+      "pos": [
+        10402.869141,
+        219.684753,
+        8948.237305
+      ],
+      "ypr": [
+        66.765945,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitJacket_Black",
+      "pos": [
+        10399.668945,
+        220.005219,
+        8946.944336
+      ],
+      "ypr": [
+        -12.876369,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "R12",
+      "pos": [
+        10402.335938,
+        219.918106,
+        8943.832031
+      ],
+      "ypr": [
+        -54.268635,
+        90.0,
+        179.999969
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_Deagle_9rnd",
+      "pos": [
+        10401.024414,
+        220.390564,
+        8949.572266
+      ],
+      "ypr": [
+        1.428264,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        10401.183594,
+        220.38382,
+        8949.754883
+      ],
+      "ypr": [
+        -47.731598,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        10401.227539,
+        220.418335,
+        8949.514648
+      ],
+      "ypr": [
+        31.355936,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        10401.289063,
+        220.373444,
+        8950.374023
+      ],
+      "ypr": [
+        85.97612,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        10400.775391,
+        220.382584,
+        8950.50293
+      ],
+      "ypr": [
+        -167.420242,
+        90.0,
+        -89.999977
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

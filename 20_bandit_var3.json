@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban1_black_DE",
+      "pos": [
+        7024.682617,
+        194.929169,
+        4388.54248
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        7021.620605,
+        194.806213,
+        4385.380859
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_black_DE",
+      "pos": [
+        7024.48877,
+        195.067764,
+        4393.376953
+      ],
+      "ypr": [
+        179.999893,
+        9.999999,
+        -179.999939
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        7022.009277,
+        194.541168,
+        4390.908691
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        7023.315918,
+        194.311646,
+        4390.857422
+      ],
+      "ypr": [
+        -33.586231,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        7021.975586,
+        194.924545,
+        4390.900391
+      ],
+      "ypr": [
+        110.882896,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        7021.830078,
+        194.908157,
+        4391.283203
+      ],
+      "ypr": [
+        121.226807,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCJacketYellow",
+      "pos": [
+        7021.505371,
+        194.908157,
+        4390.985352
+      ],
+      "ypr": [
+        -78.060242,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        7021.778809,
+        194.300018,
+        4388.347656
+      ],
+      "ypr": [
+        18.644382,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodGray",
+      "pos": [
+        7019.992676,
+        194.174362,
+        4387.806641
+      ],
+      "ypr": [
+        -126.445511,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GP5GasMask",
+      "pos": [
+        7020.585938,
+        194.344818,
+        4388.849609
+      ],
+      "ypr": [
+        -1.928157,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        7023.766602,
+        194.095291,
+        4384.981445
+      ],
+      "ypr": [
+        137.888123,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

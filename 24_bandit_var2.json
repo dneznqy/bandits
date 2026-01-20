@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban1_grey_DE",
+      "pos": [
+        8685.05957,
+        344.973633,
+        6526.007813
+      ],
+      "ypr": [
+        30.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb01_aban1_white_DE",
+      "pos": [
+        8689.660156,
+        345.135315,
+        6526.718262
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_blue_DE",
+      "pos": [
+        8688.353516,
+        344.842651,
+        6522.219727
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        8691.43457,
+        344.360321,
+        6520.38623
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitJacket_Black",
+      "pos": [
+        8691.332031,
+        344.743988,
+        6519.918945
+      ],
+      "ypr": [
+        -14.19475,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask",
+      "pos": [
+        8692.357422,
+        343.980286,
+        6521.069824
+      ],
+      "ypr": [
+        -89.706093,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        8691.28125,
+        344.723358,
+        6520.666992
+      ],
+      "ypr": [
+        -90.61998,
+        90.0,
+        179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WeldingMask",
+      "pos": [
+        8691.349609,
+        344.0448,
+        6523.442383
+      ],
+      "ypr": [
+        119.095406,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        8693.250977,
+        344.028564,
+        6523.182617
+      ],
+      "ypr": [
+        66.952713,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitPants_Black",
+      "pos": [
+        8689.53418,
+        344.061035,
+        6523.915039
+      ],
+      "ypr": [
+        -19.87487,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M16A2",
+      "pos": [
+        8691.345703,
+        344.068176,
+        6525.548828
+      ],
+      "ypr": [
+        105.642258,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Black",
+      "pos": [
+        8692.072266,
+        344.047333,
+        6525.273438
+      ],
+      "ypr": [
+        -177.956451,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

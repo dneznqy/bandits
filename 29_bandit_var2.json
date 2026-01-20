@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban1_grey_DE",
+      "pos": [
+        11454.652344,
+        69.809105,
+        6587.887695
+      ],
+      "ypr": [
+        99.999992,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        11459.775391,
+        69.718727,
+        6589.612793
+      ],
+      "ypr": [
+        -159.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        11464.701172,
+        69.817383,
+        6588.839355
+      ],
+      "ypr": [
+        179.999893,
+        -19.999998,
+        -179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        11461.833008,
+        69.296638,
+        6588.899414
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        11461.65625,
+        69.704384,
+        6588.892578
+      ],
+      "ypr": [
+        -102.274841,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Blackskull",
+      "pos": [
+        11459.067383,
+        68.956306,
+        6586.303223
+      ],
+      "ypr": [
+        150.242615,
+        79.999985,
+        -0.000104
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        11456.393555,
+        69.874924,
+        6587.501465
+      ],
+      "ypr": [
+        5.207681,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        11457.525391,
+        69.018944,
+        6591.192871
+      ],
+      "ypr": [
+        -40.727551,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        11458.223633,
+        69.023468,
+        6591.570313
+      ],
+      "ypr": [
+        87.970192,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CZ75",
+      "pos": [
+        11460.459961,
+        69.02906,
+        6592.750488
+      ],
+      "ypr": [
+        133.021011,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CZ75_15Rnd",
+      "pos": [
+        11461.051758,
+        69.040337,
+        6593.229004
+      ],
+      "ypr": [
+        108.993202,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

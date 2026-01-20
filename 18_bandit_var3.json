@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_Volha_Grey",
+      "pos": [
+        5361.541504,
+        40.795307,
+        2924.22583
+      ],
+      "ypr": [
+        30.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_Lada_Red",
+      "pos": [
+        5365.891113,
+        41.04969,
+        2925.761963
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        5363.580566,
+        41.188919,
+        2929.047363
+      ],
+      "ypr": [
+        -179.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_White",
+      "pos": [
+        5363.19873,
+        40.15242,
+        2923.391602
+      ],
+      "ypr": [
+        127.456284,
+        79.999985,
+        -0.000104
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Grey",
+      "pos": [
+        5364.422363,
+        40.238049,
+        2924.130371
+      ],
+      "ypr": [
+        -45.704517,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        5366.775879,
+        40.577381,
+        2928.329834
+      ],
+      "ypr": [
+        127.093697,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TShirt_Black",
+      "pos": [
+        5365.557617,
+        40.606945,
+        2930.459473
+      ],
+      "ypr": [
+        150.033859,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        5364.950195,
+        40.513096,
+        2928.751465
+      ],
+      "ypr": [
+        73.846855,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RGD5Grenade",
+      "pos": [
+        5365.294922,
+        40.461861,
+        2927.135498
+      ],
+      "ypr": [
+        148.935211,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalShirt_Olive",
+      "pos": [
+        5366.15918,
+        40.542309,
+        2927.745605
+      ],
+      "ypr": [
+        -178.862885,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

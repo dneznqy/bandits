@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban1_red_DE",
+      "pos": [
+        1686.50061,
+        144.85112,
+        3860.564453
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban2_grey_DE",
+      "pos": [
+        1690.321411,
+        144.648834,
+        3857.783691
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        1687.480103,
+        144.693726,
+        3854.770508
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Grey",
+      "pos": [
+        1690.845337,
+        144.013901,
+        3855.285156
+      ],
+      "ypr": [
+        -78.181084,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Blue",
+      "pos": [
+        1686.551636,
+        144.070663,
+        3856.415771
+      ],
+      "ypr": [
+        18.715834,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M68Optic",
+      "pos": [
+        1688.746948,
+        143.992172,
+        3861.806641
+      ],
+      "ypr": [
+        -115.557709,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Jeans_Brown",
+      "pos": [
+        1686.294189,
+        143.992172,
+        3863.591797
+      ],
+      "ypr": [
+        -138.893372,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Fal_FoldingBttstck",
+      "pos": [
+        1689.995483,
+        144.012817,
+        3859.82373
+      ],
+      "ypr": [
+        91.128868,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAL_20Rnd",
+      "pos": [
+        1689.460327,
+        144.007492,
+        3860.336426
+      ],
+      "ypr": [
+        100.214851,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAL_20Rnd",
+      "pos": [
+        1689.921875,
+        144.004272,
+        3860.890381
+      ],
+      "ypr": [
+        -0.280224,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FAL",
+      "pos": [
+        1689.416382,
+        144.004227,
+        3861.237305
+      ],
+      "ypr": [
+        34.888142,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RGD5Grenade",
+      "pos": [
+        1689.599121,
+        144.024628,
+        3855.975586
+      ],
+      "ypr": [
+        107.339699,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        1685.202271,
+        144.0224,
+        3856.018799
+      ],
+      "ypr": [
+        -145.22168,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HockeyMask",
+      "pos": [
+        1686.721313,
+        144.013046,
+        3852.791504
+      ],
+      "ypr": [
+        126.434502,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban1_red_DE",
+      "pos": [
+        8161.111328,
+        7.048873,
+        3120.469238
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        8157.823242,
+        6.904896,
+        3124.442871
+      ],
+      "ypr": [
+        -159.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        8162.071777,
+        6.900521,
+        3125.487061
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        8163.776855,
+        6.477568,
+        3121.958252
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FAMAS",
+      "pos": [
+        8163.617188,
+        6.856777,
+        3122.163086
+      ],
+      "ypr": [
+        174.792297,
+        90.0,
+        179.999954
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAMAS_25Rnd",
+      "pos": [
+        8163.386719,
+        6.179511,
+        3123.665039
+      ],
+      "ypr": [
+        156.697281,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAMAS_25Rnd",
+      "pos": [
+        8163.922363,
+        6.173554,
+        3124.367188
+      ],
+      "ypr": [
+        113.574623,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Black",
+      "pos": [
+        8162.896973,
+        6.176068,
+        3126.272705
+      ],
+      "ypr": [
+        -103.384506,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        8159.512207,
+        6.161114,
+        3123.888672
+      ],
+      "ypr": [
+        109.108528,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Jeans_BlueDark",
+      "pos": [
+        8160.128418,
+        6.152203,
+        3125.116699
+      ],
+      "ypr": [
+        -173.655167,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        8156.417969,
+        6.15755,
+        3126.789063
+      ],
+      "ypr": [
+        -67.155975,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TetracyclineAntibiotics",
+      "pos": [
+        8156.797852,
+        6.144698,
+        3127.317139
+      ],
+      "ypr": [
+        172.715836,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

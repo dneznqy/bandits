@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban1_red_DE",
+      "pos": [
+        13385.009766,
+        6.616285,
+        5406.171387
+      ],
+      "ypr": [
+        99.999992,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        13382.420898,
+        6.566026,
+        5409.226563
+      ],
+      "ypr": [
+        -159.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        13389.092773,
+        6.611475,
+        5407.439941
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        13385.770508,
+        6.159392,
+        5408.401855
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        13385.859375,
+        6.51181,
+        5407.954102
+      ],
+      "ypr": [
+        -50.961704,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        13385.816406,
+        6.509025,
+        5408.268066
+      ],
+      "ypr": [
+        -167.811768,
+        90.0,
+        -0.000104
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        13385.697266,
+        6.509212,
+        5408.557617
+      ],
+      "ypr": [
+        87.195663,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalGloves_Black",
+      "pos": [
+        13384.0,
+        5.896875,
+        5409.194336
+      ],
+      "ypr": [
+        103.714104,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TortillaBag",
+      "pos": [
+        13382.689453,
+        5.971384,
+        5412.45459
+      ],
+      "ypr": [
+        -28.922382,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        13384.94043,
+        5.870538,
+        5413.780762
+      ],
+      "ypr": [
+        15.073694,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        13387.040039,
+        5.946067,
+        5414.066406
+      ],
+      "ypr": [
+        -135.630356,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalShirt_Tan",
+      "pos": [
+        13388.691406,
+        5.866862,
+        5411.023438
+      ],
+      "ypr": [
+        -137.421188,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalGoggles",
+      "pos": [
+        13387.736328,
+        5.904127,
+        5409.839355
+      ],
+      "ypr": [
+        101.687057,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ASVAL",
+      "pos": [
+        13386.092773,
+        6.491644,
+        5408.734375
+      ],
+      "ypr": [
+        71.27597,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

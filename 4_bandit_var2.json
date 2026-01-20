@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_Lada_Green",
+      "pos": [
+        1954.447144,
+        6.64964,
+        2251.348389
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_Volha_Grey",
+      "pos": [
+        1953.258545,
+        6.728255,
+        2246.315186
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_black",
+      "pos": [
+        1951.430054,
+        6.756013,
+        2252.797607
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RidersJacket_Black",
+      "pos": [
+        1950.291016,
+        6.079886,
+        2248.755127
+      ],
+      "ypr": [
+        173.462936,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Blackskull",
+      "pos": [
+        1951.851196,
+        6.900994,
+        2253.717773
+      ],
+      "ypr": [
+        -147.303574,
+        90.0,
+        179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "KashtanOptic",
+      "pos": [
+        1949.490723,
+        6.013,
+        2249.876709
+      ],
+      "ypr": [
+        115.063316,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "VSS",
+      "pos": [
+        1948.549561,
+        6.021126,
+        2248.616211
+      ],
+      "ypr": [
+        -148.116684,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VSS_10Rnd",
+      "pos": [
+        1948.557739,
+        6.021293,
+        2249.154053
+      ],
+      "ypr": [
+        -143.842911,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VSS_10Rnd",
+      "pos": [
+        1949.757568,
+        6.021413,
+        2247.628418
+      ],
+      "ypr": [
+        57.300941,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive_Placing",
+      "pos": [
+        1954.596313,
+        6.025177,
+        2247.316162
+      ],
+      "ypr": [
+        -3.361919,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        1957.020508,
+        6.021548,
+        2250.552246
+      ],
+      "ypr": [
+        -22.742393,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SmershVest",
+      "pos": [
+        1954.418701,
+        6.022832,
+        2252.772949
+      ],
+      "ypr": [
+        -116.34874,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

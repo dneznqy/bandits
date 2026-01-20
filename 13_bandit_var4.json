@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban2_red_DE",
+      "pos": [
+        2599.401855,
+        143.294067,
+        3440.169189
+      ],
+      "ypr": [
+        99.999992,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban2_yellow_DE",
+      "pos": [
+        2594.407959,
+        143.270218,
+        3437.217285
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb01_aban1_white_DE",
+      "pos": [
+        2595.883057,
+        143.584,
+        3442.906006
+      ],
+      "ypr": [
+        -159.999939,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        2594.460693,
+        142.78862,
+        3444.502441
+      ],
+      "ypr": [
+        -72.099968,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        2595.956543,
+        142.830429,
+        3445.538086
+      ],
+      "ypr": [
+        -68.111816,
+        90.0,
+        179.999985
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RGD5Grenade",
+      "pos": [
+        2598.354492,
+        142.720337,
+        3442.255127
+      ],
+      "ypr": [
+        123.226402,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RGD5Grenade",
+      "pos": [
+        2599.948486,
+        142.723999,
+        3443.024414
+      ],
+      "ypr": [
+        -28.015991,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCBootsWhite",
+      "pos": [
+        2596.667969,
+        142.613998,
+        3438.096924
+      ],
+      "ypr": [
+        -32.432621,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCJacketWhite",
+      "pos": [
+        2598.954834,
+        142.722656,
+        3438.276367
+      ],
+      "ypr": [
+        -9.074984,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask_Filter",
+      "pos": [
+        2598.497314,
+        142.598801,
+        3436.891113
+      ],
+      "ypr": [
+        -97.231949,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        2595.839111,
+        142.603622,
+        3436.538818
+      ],
+      "ypr": [
+        -31.317518,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

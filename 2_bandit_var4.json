@@ -1,0 +1,186 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban2_white_DE",
+      "pos": [
+        3659.973633,
+        7.653897,
+        2478.067871
+      ],
+      "ypr": [
+        79.999985,
+        0.0,
+        87.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_wine_DE",
+      "pos": [
+        3664.986328,
+        7.640354,
+        2479.479492
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        3667.521484,
+        7.576327,
+        2479.765137
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Balaclava3Holes_Black",
+      "pos": [
+        3666.533203,
+        6.952319,
+        2476.95459
+      ],
+      "ypr": [
+        -147.885986,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Black",
+      "pos": [
+        3664.646484,
+        6.9055,
+        2476.623779
+      ],
+      "ypr": [
+        131.774033,
+        90.0,
+        -3.6e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Grey",
+      "pos": [
+        3663.111084,
+        6.895607,
+        2478.260742
+      ],
+      "ypr": [
+        -139.420731,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WorkingGloves_Black",
+      "pos": [
+        3663.111816,
+        6.905649,
+        2480.932129
+      ],
+      "ypr": [
+        -3.537705,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "UKAssVest_Black",
+      "pos": [
+        3659.177979,
+        6.921015,
+        2480.334473
+      ],
+      "ypr": [
+        67.666855,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK_WoodHndgrd",
+      "pos": [
+        3658.13916,
+        6.940777,
+        2480.965088
+      ],
+      "ypr": [
+        128.637344,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK_WoodBttstck",
+      "pos": [
+        3659.707764,
+        6.943278,
+        2482.28125
+      ],
+      "ypr": [
+        -28.054502,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AKM_30Rnd",
+      "pos": [
+        3659.028809,
+        6.945636,
+        2481.898682
+      ],
+      "ypr": [
+        -73.769974,
+        90.0,
+        179.999985
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AKM",
+      "pos": [
+        3658.38916,
+        6.951387,
+        2481.869141
+      ],
+      "ypr": [
+        -108.213142,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AKM_30Rnd",
+      "pos": [
+        3657.53418,
+        6.95572,
+        2481.71875
+      ],
+      "ypr": [
+        153.500168,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

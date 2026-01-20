@@ -1,0 +1,186 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb01_aban1_blue_DE",
+      "pos": [
+        5778.469727,
+        9.836788,
+        2150.961426
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_white_DE",
+      "pos": [
+        5776.52832,
+        9.550125,
+        2156.514893
+      ],
+      "ypr": [
+        79.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_black_DE",
+      "pos": [
+        5780.461426,
+        9.633267,
+        2154.44165
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "KobraOptic",
+      "pos": [
+        5782.534668,
+        8.862741,
+        2152.087402
+      ],
+      "ypr": [
+        21.550331,
+        90.0,
+        179.999924
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCGlovesGray",
+      "pos": [
+        5782.272949,
+        8.875968,
+        2154.313721
+      ],
+      "ypr": [
+        -91.002518,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCPantsGray",
+      "pos": [
+        5782.771973,
+        8.918211,
+        2156.883057
+      ],
+      "ypr": [
+        -3.285012,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        5778.429199,
+        8.863033,
+        2153.993408
+      ],
+      "ypr": [
+        -140.255707,
+        90.0,
+        -5e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        5776.820313,
+        8.79462,
+        2154.037598
+      ],
+      "ypr": [
+        173.309113,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        5777.884277,
+        8.818951,
+        2154.777344
+      ],
+      "ypr": [
+        -157.653137,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        5777.349121,
+        8.799411,
+        2153.155029
+      ],
+      "ypr": [
+        -142.788177,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        5778.431152,
+        9.687411,
+        2157.368408
+      ],
+      "ypr": [
+        -133.762604,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        5783.070801,
+        8.870222,
+        2154.623047
+      ],
+      "ypr": [
+        27.818228,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCBootsWhite",
+      "pos": [
+        5780.765137,
+        8.792601,
+        2149.977051
+      ],
+      "ypr": [
+        5.822943,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

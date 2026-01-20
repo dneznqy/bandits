@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        2334.326172,
+        133.518616,
+        3702.974854
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        2330.984375,
+        133.437164,
+        3702.02417
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_wine_DE",
+      "pos": [
+        2338.663086,
+        133.862732,
+        3698.235596
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_White",
+      "pos": [
+        2337.033691,
+        133.046722,
+        3701.567871
+      ],
+      "ypr": [
+        -167.557556,
+        79.999985,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "KobraOptic",
+      "pos": [
+        2335.766113,
+        132.985291,
+        3699.039795
+      ],
+      "ypr": [
+        122.479317,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TortillaBag",
+      "pos": [
+        2333.339111,
+        132.984772,
+        3699.658203
+      ],
+      "ypr": [
+        89.717072,
+        -90.0,
+        -6.3e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        2335.711426,
+        132.879745,
+        3703.484619
+      ],
+      "ypr": [
+        39.150967,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        2336.708984,
+        132.930222,
+        3702.974365
+      ],
+      "ypr": [
+        33.415997,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ASVAL",
+      "pos": [
+        2336.020264,
+        132.911545,
+        3702.57373
+      ],
+      "ypr": [
+        139.503159,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CargoPants_Black",
+      "pos": [
+        2336.663818,
+        132.933243,
+        3703.532227
+      ],
+      "ypr": [
+        126.269699,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        2333.706787,
+        132.756866,
+        3706.333008
+      ],
+      "ypr": [
+        137.805695,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        2332.446777,
+        132.750183,
+        3706.296387
+      ],
+      "ypr": [
+        42.957855,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

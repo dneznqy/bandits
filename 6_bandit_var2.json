@@ -1,0 +1,130 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed02_aban2_yellow_DE",
+      "pos": [
+        1137.224243,
+        6.672765,
+        2381.279053
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        1139.580811,
+        6.782008,
+        2385.27002
+      ],
+      "ypr": [
+        -169.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        1140.582642,
+        6.322871,
+        2379.844971
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CombatBoots_Brown",
+      "pos": [
+        1140.706177,
+        6.653201,
+        2379.994141
+      ],
+      "ypr": [
+        34.39922,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "EyeMask_Black",
+      "pos": [
+        1138.110962,
+        6.011067,
+        2381.068848
+      ],
+      "ypr": [
+        -99.330421,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SmershVest",
+      "pos": [
+        1134.984863,
+        6.015485,
+        2380.447998
+      ],
+      "ypr": [
+        143.507767,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BaseballCap_Black",
+      "pos": [
+        1135.669067,
+        6.017946,
+        2383.967285
+      ],
+      "ypr": [
+        69.309364,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        1136.783081,
+        6.03792,
+        2385.107666
+      ],
+      "ypr": [
+        168.826553,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ASVAL",
+      "pos": [
+        1137.323975,
+        6.03573,
+        2384.211426
+      ],
+      "ypr": [
+        130.977509,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

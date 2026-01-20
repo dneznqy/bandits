@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_white_DE",
+      "pos": [
+        5231.031738,
+        183.361954,
+        3686.520508
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb01_aban1_blue_DE",
+      "pos": [
+        5229.14502,
+        183.506973,
+        3681.44458
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban2_red_DE",
+      "pos": [
+        5238.33252,
+        182.877609,
+        3683.21167
+      ],
+      "ypr": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        5233.587891,
+        182.616272,
+        3681.901855
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        5233.428223,
+        182.968857,
+        3681.603271
+      ],
+      "ypr": [
+        1.49974,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCGlovesYellow",
+      "pos": [
+        5233.758789,
+        182.983261,
+        3682.375732
+      ],
+      "ypr": [
+        -11.305275,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodWhite",
+      "pos": [
+        5233.306641,
+        182.948486,
+        3682.081299
+      ],
+      "ypr": [
+        179.895599,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        5233.714355,
+        182.955017,
+        3681.531738
+      ],
+      "ypr": [
+        -94.078781,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask",
+      "pos": [
+        5233.576172,
+        182.345993,
+        3683.925049
+      ],
+      "ypr": [
+        -91.881454,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        5228.894043,
+        182.601212,
+        3684.322021
+      ],
+      "ypr": [
+        43.721409,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ReflexOptic",
+      "pos": [
+        5233.17627,
+        182.534851,
+        3685.497314
+      ],
+      "ypr": [
+        -63.717163,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BatteryCharger",
+      "pos": [
+        5237.09668,
+        182.476959,
+        3687.453857
+      ],
+      "ypr": [
+        -25.741749,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

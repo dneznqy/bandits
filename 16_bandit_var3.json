@@ -1,0 +1,214 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_wine_DE",
+      "pos": [
+        4390.247559,
+        236.39975,
+        4681.150391
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        4396.441406,
+        236.562424,
+        4683.469727
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        4401.143066,
+        236.66124,
+        4680.128906
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        4400.491699,
+        236.266113,
+        4684.395508
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BandageDressing",
+      "pos": [
+        4400.484863,
+        236.622452,
+        4684.389648
+      ],
+      "ypr": [
+        -44.369644,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Balaclava3Holes_Blue",
+      "pos": [
+        4400.510742,
+        236.600586,
+        4684.092773
+      ],
+      "ypr": [
+        -91.908936,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitPants_Blue",
+      "pos": [
+        4400.401367,
+        236.600647,
+        4684.834961
+      ],
+      "ypr": [
+        -5.965757,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TrackSuitJacket_Blue",
+      "pos": [
+        4398.868652,
+        235.861481,
+        4679.453613
+      ],
+      "ypr": [
+        126.676208,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        4397.561523,
+        235.856171,
+        4681.043457
+      ],
+      "ypr": [
+        -46.517529,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        4395.510742,
+        235.806152,
+        4681.120605
+      ],
+      "ypr": [
+        25.011137,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        4395.874023,
+        235.827759,
+        4681.588867
+      ],
+      "ypr": [
+        102.807701,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        4396.272461,
+        235.841003,
+        4680.816895
+      ],
+      "ypr": [
+        -4.268398,
+        90.0,
+        179.999969
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        4396.585938,
+        235.851654,
+        4681.461426
+      ],
+      "ypr": [
+        -128.571442,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        4391.981445,
+        235.783661,
+        4683.077637
+      ],
+      "ypr": [
+        -103.862419,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        4400.283203,
+        236.633102,
+        4684.361816
+      ],
+      "ypr": [
+        164.140717,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

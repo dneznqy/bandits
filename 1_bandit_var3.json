@@ -1,0 +1,88 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban1_black_DE",
+      "pos": [
+        3172.724609,
+        68.341995,
+        2583.574219
+      ],
+      "ypr": [
+        60.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        3177.94873,
+        67.950638,
+        2585.257568
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        3174.988281,
+        68.144127,
+        2581.038086
+      ],
+      "ypr": [
+        179.999893,
+        21.0,
+        -179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        3174.100098,
+        68.196373,
+        2584.125977
+      ],
+      "ypr": [
+        34.410198,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Sweater_Red",
+      "pos": [
+        3175.411377,
+        67.412071,
+        2583.38501
+      ],
+      "ypr": [
+        -121.908012,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "MimeMask_Male",
+      "pos": [
+        3172.080566,
+        67.697426,
+        2584.420898
+      ],
+      "ypr": [
+        -165.876633,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

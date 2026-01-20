@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_white_DE",
+      "pos": [
+        3418.007813,
+        195.384018,
+        3970.423828
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        3417.528564,
+        195.07872,
+        3965.814697
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCJacketYellow",
+      "pos": [
+        3416.702637,
+        194.686264,
+        3971.236816
+      ],
+      "ypr": [
+        -156.614883,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask_Filter",
+      "pos": [
+        3415.329102,
+        194.610413,
+        3970.937744
+      ],
+      "ypr": [
+        149.605362,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCPantsWhite",
+      "pos": [
+        3415.697021,
+        194.588913,
+        3972.476807
+      ],
+      "ypr": [
+        155.746918,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        3417.780518,
+        195.548386,
+        3972.389404
+      ],
+      "ypr": [
+        77.988815,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Black",
+      "pos": [
+        3419.873291,
+        195.019348,
+        3972.350098
+      ],
+      "ypr": [
+        -6.465711,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        3413.941162,
+        194.756027,
+        3972.231445
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        3413.956787,
+        195.116272,
+        3972.257568
+      ],
+      "ypr": [
+        -165.519592,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M16A2",
+      "pos": [
+        3414.050049,
+        195.107529,
+        3972.5354
+      ],
+      "ypr": [
+        28.614756,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        3413.70166,
+        195.106522,
+        3972.585938
+      ],
+      "ypr": [
+        -77.417511,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

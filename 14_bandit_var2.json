@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb02_aban1_red_DE",
+      "pos": [
+        2666.476563,
+        127.234901,
+        3011.375732
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        2664.498291,
+        126.292496,
+        3003.802002
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        -179.999985
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_blue_DE",
+      "pos": [
+        2670.303955,
+        127.565163,
+        3015.108643
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Balaclava3Holes_Black",
+      "pos": [
+        2665.430176,
+        126.138969,
+        3008.117188
+      ],
+      "ypr": [
+        117.07386,
+        -90.0,
+        -9.1e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        2664.338623,
+        126.166588,
+        3009.009521
+      ],
+      "ypr": [
+        -75.961784,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        2664.647217,
+        126.614853,
+        3014.052979
+      ],
+      "ypr": [
+        -131.389481,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "VSS",
+      "pos": [
+        2666.446533,
+        126.745995,
+        3015.208984
+      ],
+      "ypr": [
+        -54.828987,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ReflexOptic",
+      "pos": [
+        2666.868652,
+        126.727455,
+        3014.801758
+      ],
+      "ypr": [
+        -129.736023,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VSS_10Rnd",
+      "pos": [
+        2666.569336,
+        126.705017,
+        3014.512451
+      ],
+      "ypr": [
+        165.62944,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Sneakers_Red",
+      "pos": [
+        2665.237549,
+        126.458725,
+        3010.928955
+      ],
+      "ypr": [
+        -177.445572,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        2667.756348,
+        126.856895,
+        3016.500732
+      ],
+      "ypr": [
+        -148.199066,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

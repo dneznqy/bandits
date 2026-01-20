@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb01_aban1_blue_DE",
+      "pos": [
+        8402.782227,
+        141.130875,
+        4935.507324
+      ],
+      "ypr": [
+        -27.999979,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_red_DE",
+      "pos": [
+        8406.621094,
+        140.813354,
+        4938.429199
+      ],
+      "ypr": [
+        46.999928,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_black_DE",
+      "pos": [
+        8410.834961,
+        140.818726,
+        4935.653809
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        8407.960938,
+        140.340454,
+        4933.47998
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCJacketWhite",
+      "pos": [
+        8407.849609,
+        140.707443,
+        4933.270996
+      ],
+      "ypr": [
+        120.128174,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodWhite",
+      "pos": [
+        8407.9375,
+        140.707443,
+        4933.765625
+      ],
+      "ypr": [
+        -95.518036,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AirborneMask",
+      "pos": [
+        8408.996094,
+        140.06041,
+        4936.405762
+      ],
+      "ypr": [
+        1.724913,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        8413.642578,
+        140.174332,
+        4933.799316
+      ],
+      "ypr": [
+        -116.766273,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M67Grenade",
+      "pos": [
+        8413.03418,
+        140.125931,
+        4936.117188
+      ],
+      "ypr": [
+        -178.478317,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        8411.095703,
+        140.986557,
+        4934.303223
+      ],
+      "ypr": [
+        74.725792,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        8414.426758,
+        140.091934,
+        4936.986816
+      ],
+      "ypr": [
+        154.994339,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        8414.426758,
+        140.08963,
+        4936.021484
+      ],
+      "ypr": [
+        82.185722,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        8413.427734,
+        140.100555,
+        4937.02002
+      ],
+      "ypr": [
+        99.676498,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        8415.602539,
+        140.086258,
+        4936.257324
+      ],
+      "ypr": [
+        -106.202576,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

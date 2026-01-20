@@ -1,0 +1,144 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban2_wine_DE",
+      "pos": [
+        7569.322266,
+        220.057358,
+        5243.402344
+      ],
+      "ypr": [
+        179.999893,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        7564.67627,
+        219.934494,
+        5246.314453
+      ],
+      "ypr": [
+        99.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban2_white_DE",
+      "pos": [
+        7564.123535,
+        220.226257,
+        5252.441406
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ASVAL",
+      "pos": [
+        7567.007324,
+        219.294006,
+        5248.876465
+      ],
+      "ypr": [
+        -62.574554,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        7566.84082,
+        219.265518,
+        5248.004395
+      ],
+      "ypr": [
+        -56.509899,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_VAL_20Rnd",
+      "pos": [
+        7567.830078,
+        219.295517,
+        5248.341797
+      ],
+      "ypr": [
+        118.200012,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "ImprovisedSuppressor",
+      "pos": [
+        7565.943359,
+        219.300781,
+        5248.425781
+      ],
+      "ypr": [
+        156.32373,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Red",
+      "pos": [
+        7564.925293,
+        219.280243,
+        5249.717773
+      ],
+      "ypr": [
+        160.998566,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Plastic_Explosive",
+      "pos": [
+        7565.956055,
+        219.557938,
+        5253.07959
+      ],
+      "ypr": [
+        -73.610649,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        7568.397949,
+        219.544952,
+        5246.358887
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

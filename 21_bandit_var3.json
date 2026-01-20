@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb01_aban2_white_DE",
+      "pos": [
+        7508.737793,
+        211.987671,
+        4980.255371
+      ],
+      "ypr": [
+        -169.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        7505.283203,
+        211.993118,
+        4978.701172
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_red_DE",
+      "pos": [
+        7506.250977,
+        211.949829,
+        4971.671875
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        7506.240723,
+        211.498688,
+        4980.749512
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Bandana_BlackPattern",
+      "pos": [
+        7506.294434,
+        211.899994,
+        4981.064941
+      ],
+      "ypr": [
+        -45.490326,
+        90.0,
+        179.999924
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CombatBoots_Green",
+      "pos": [
+        7504.609375,
+        211.300995,
+        4980.333496
+      ],
+      "ypr": [
+        94.474304,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        7503.775879,
+        211.412231,
+        4976.816406
+      ],
+      "ypr": [
+        -33.641155,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SmershBag",
+      "pos": [
+        7505.275391,
+        211.395538,
+        4975.898926
+      ],
+      "ypr": [
+        175.819504,
+        -90.0,
+        -6.3e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAL_20Rnd",
+      "pos": [
+        7504.775879,
+        211.346191,
+        4974.350098
+      ],
+      "ypr": [
+        -45.92979,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FAL",
+      "pos": [
+        7506.493164,
+        211.28006,
+        4975.041992
+      ],
+      "ypr": [
+        94.194153,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAL_20Rnd",
+      "pos": [
+        7508.4375,
+        211.190277,
+        4976.691895
+      ],
+      "ypr": [
+        -74.187431,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Fal_OeBttstck",
+      "pos": [
+        7508.381836,
+        211.242844,
+        4973.749512
+      ],
+      "ypr": [
+        -124.682144,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban2_black_DE",
+      "pos": [
+        5812.130859,
+        95.148743,
+        3113.388672
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        5815.590332,
+        95.176521,
+        3115.572266
+      ],
+      "ypr": [
+        -179.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban1_blue_DE",
+      "pos": [
+        5816.971191,
+        95.145309,
+        3110.697754
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        5819.071777,
+        94.694138,
+        3112.242188
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        5819.040527,
+        95.028679,
+        3112.262451
+      ],
+      "ypr": [
+        -132.674911,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        5815.145508,
+        94.380554,
+        3110.777588
+      ],
+      "ypr": [
+        128.379135,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "DryBag_Blue",
+      "pos": [
+        5817.469238,
+        94.690155,
+        3117.97876
+      ],
+      "ypr": [
+        -94.177704,
+        -90.0,
+        -6.3e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4A1",
+      "pos": [
+        5819.307617,
+        95.048836,
+        3112.703125
+      ],
+      "ypr": [
+        -79.461021,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        5816.14209,
+        94.4226,
+        3112.689941
+      ],
+      "ypr": [
+        170.32074,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_PlasticHndgrd",
+      "pos": [
+        5817.840332,
+        94.540916,
+        3116.84668
+      ],
+      "ypr": [
+        -63.739159,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        5820.429688,
+        94.601288,
+        3118.320557
+      ],
+      "ypr": [
+        50.593594,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_OEBttstck",
+      "pos": [
+        5820.453125,
+        95.11261,
+        3114.017334
+      ],
+      "ypr": [
+        -109.946556,
+        90.0,
+        -5e-06
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Ammo_GrenadeM4",
+      "pos": [
+        5818.408203,
+        94.519928,
+        3116.13623
+      ],
+      "ypr": [
+        10.013912,
+        0.0,
+        -0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_Suppressor",
+      "pos": [
+        5819.034668,
+        94.576683,
+        3118.449951
+      ],
+      "ypr": [
+        10.563687,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

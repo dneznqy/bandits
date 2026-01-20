@@ -1,0 +1,186 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        1689.352417,
+        7.070099,
+        2209.9729
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban1_yellow_DE",
+      "pos": [
+        1685.624268,
+        7.0197,
+        2207.27124
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        -179.999893
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb01_aban1_green_DE",
+      "pos": [
+        1683.563843,
+        7.426504,
+        2211.841553
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CharcoalTablets",
+      "pos": [
+        1685.080933,
+        6.396017,
+        2207.090088
+      ],
+      "ypr": [
+        -89.376503,
+        90.0,
+        -0.000104
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RGD5Grenade",
+      "pos": [
+        1681.832764,
+        6.402437,
+        2211.261475
+      ],
+      "ypr": [
+        -71.226524,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask_Filter_Improvised",
+      "pos": [
+        1685.31958,
+        6.380239,
+        2209.987793
+      ],
+      "ypr": [
+        -32.685314,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Sneakers_Black",
+      "pos": [
+        1687.748291,
+        6.388138,
+        2208.472168
+      ],
+      "ypr": [
+        60.294781,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_40Rnd",
+      "pos": [
+        1688.385864,
+        6.360923,
+        2212.36377
+      ],
+      "ypr": [
+        -73.14373,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M16A2",
+      "pos": [
+        1689.154297,
+        6.344301,
+        2212.275879
+      ],
+      "ypr": [
+        123.275848,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        1688.826294,
+        6.60805,
+        2205.173096
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CoyoteBag_Brown",
+      "pos": [
+        1692.508789,
+        6.402438,
+        2207.594727
+      ],
+      "ypr": [
+        169.996643,
+        -90.0,
+        -7.7e-05
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Sneakers_Black",
+      "pos": [
+        1691.66687,
+        6.296654,
+        2208.25708
+      ],
+      "ypr": [
+        165.865662,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "StarlightOptic",
+      "pos": [
+        1690.730713,
+        6.303352,
+        2207.960449
+      ],
+      "ypr": [
+        115.480804,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_white_DE",
+      "pos": [
+        969.858582,
+        6.603427,
+        2073.242676
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb01_aban1_blue_DE",
+      "pos": [
+        969.237061,
+        6.927083,
+        2078.539307
+      ],
+      "ypr": [
+        130.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban2_red_DE",
+      "pos": [
+        972.194824,
+        6.530974,
+        2079.708008
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BallisticHelmet_Black",
+      "pos": [
+        970.005737,
+        5.883235,
+        2075.983887
+      ],
+      "ypr": [
+        -157.669601,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "HockeyMask",
+      "pos": [
+        967.813538,
+        5.865266,
+        2076.908203
+      ],
+      "ypr": [
+        -46.748245,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Red",
+      "pos": [
+        973.765686,
+        5.872699,
+        2078.317627
+      ],
+      "ypr": [
+        -129.049347,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalShirt_Tan",
+      "pos": [
+        973.365723,
+        5.88246,
+        2082.177734
+      ],
+      "ypr": [
+        34.893646,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "GasMask",
+      "pos": [
+        970.582825,
+        5.913819,
+        2082.444824
+      ],
+      "ypr": [
+        5.921819,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CourierBag",
+      "pos": [
+        965.5896,
+        5.920086,
+        2076.391357
+      ],
+      "ypr": [
+        -13.596005,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "PistolSuppressor",
+      "pos": [
+        966.6745,
+        5.89376,
+        2073.705811
+      ],
+      "ypr": [
+        -165.728333,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAMAS_25Rnd",
+      "pos": [
+        966.738525,
+        5.865294,
+        2074.326904
+      ],
+      "ypr": [
+        10.179134,
+        81.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "RemoteDetonator",
+      "pos": [
+        966.429626,
+        5.864124,
+        2074.042969
+      ],
+      "ypr": [
+        -29.581572,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FAMAS",
+      "pos": [
+        967.336731,
+        5.860275,
+        2071.776367
+      ],
+      "ypr": [
+        -95.149994,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAMAS_25Rnd",
+      "pos": [
+        967.990662,
+        5.899403,
+        2071.196045
+      ],
+      "ypr": [
+        -156.532471,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "NBCHoodWhite",
+      "pos": [
+        970.355286,
+        5.779388,
+        2071.249023
+      ],
+      "ypr": [
+        -70.479439,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

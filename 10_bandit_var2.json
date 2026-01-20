@@ -1,0 +1,172 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_sed01_aban1_black_DE",
+      "pos": [
+        1810.76709,
+        132.317322,
+        3465.876709
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban1_red_DE",
+      "pos": [
+        1806.380493,
+        132.788528,
+        3470.45752
+      ],
+      "ypr": [
+        120.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban1_yellow_DE",
+      "pos": [
+        1811.203613,
+        132.77681,
+        3472.306885
+      ],
+      "ypr": [
+        -179.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Blackskull",
+      "pos": [
+        1807.465454,
+        132.103622,
+        3473.00415
+      ],
+      "ypr": [
+        -88.645905,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BalaclavaMask_Chain",
+      "pos": [
+        1809.7771,
+        132.239868,
+        3477.15332
+      ],
+      "ypr": [
+        125.143578,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WorkingGloves_Yellow",
+      "pos": [
+        1808.854248,
+        131.929047,
+        3471.759033
+      ],
+      "ypr": [
+        -177.709244,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "BallisticHelmet_Black",
+      "pos": [
+        1805.549927,
+        132.167618,
+        3475.255371
+      ],
+      "ypr": [
+        -94.759972,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M65Jacket_Khaki",
+      "pos": [
+        1811.128906,
+        131.78009,
+        3469.557617
+      ],
+      "ypr": [
+        105.944374,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_WoodBttstck",
+      "pos": [
+        1808.664429,
+        131.688339,
+        3466.575439
+      ],
+      "ypr": [
+        -39.019127,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74_Hndgrd",
+      "pos": [
+        1808.115601,
+        131.758377,
+        3467.591064
+      ],
+      "ypr": [
+        -21.352625,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_AK74_45Rnd",
+      "pos": [
+        1809.188477,
+        131.805817,
+        3468.905273
+      ],
+      "ypr": [
+        84.800568,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AK74",
+      "pos": [
+        1808.451172,
+        131.780289,
+        3468.422607
+      ],
+      "ypr": [
+        -150.654602,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

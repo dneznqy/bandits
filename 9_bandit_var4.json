@@ -1,0 +1,158 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb01_aban1_blue_DE",
+      "pos": [
+        780.622437,
+        7.151991,
+        1916.234863
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed02_aban2_yellow_DE",
+      "pos": [
+        777.195496,
+        6.760046,
+        1919.758545
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_white_DE",
+      "pos": [
+        781.763611,
+        6.841631,
+        1920.752441
+      ],
+      "ypr": [
+        -49.999996,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "SmershVest",
+      "pos": [
+        784.574768,
+        6.14131,
+        1916.4375
+      ],
+      "ypr": [
+        157.889328,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TacticalGloves_Black",
+      "pos": [
+        784.23999,
+        6.094375,
+        1921.439453
+      ],
+      "ypr": [
+        -2.944425,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "CargoPants_Beige",
+      "pos": [
+        781.269409,
+        6.092164,
+        1923.30481
+      ],
+      "ypr": [
+        154.340622,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "WeldingMask",
+      "pos": [
+        778.307678,
+        6.108425,
+        1915.240234
+      ],
+      "ypr": [
+        -13.096101,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "DryBag_Orange",
+      "pos": [
+        775.248108,
+        6.256319,
+        1916.933228
+      ],
+      "ypr": [
+        -109.806213,
+        -90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_FAMAS_25Rnd",
+      "pos": [
+        782.177246,
+        6.136836,
+        1914.705566
+      ],
+      "ypr": [
+        -148.984634,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "FAMAS",
+      "pos": [
+        782.248718,
+        6.10477,
+        1915.519043
+      ],
+      "ypr": [
+        7.696211,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Roadblock_WoodenCrate",
+      "pos": [
+        783.283691,
+        6.388189,
+        1917.167725
+      ],
+      "ypr": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}

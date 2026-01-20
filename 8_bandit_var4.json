@@ -1,0 +1,214 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Wreck_hb01_aban2_blue_DE",
+      "pos": [
+        840.102966,
+        6.910747,
+        1939.949585
+      ],
+      "ypr": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_hb02_aban2_black_DE",
+      "pos": [
+        835.022583,
+        6.684189,
+        1939.628296
+      ],
+      "ypr": [
+        -169.999985,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Land_Wreck_sed01_aban1_wine_DE",
+      "pos": [
+        836.9328,
+        6.734622,
+        1935.824829
+      ],
+      "ypr": [
+        19.999998,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_Deagle_9rnd",
+      "pos": [
+        836.331421,
+        6.00664,
+        1939.608154
+      ],
+      "ypr": [
+        41.414257,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "TetracyclineAntibiotics",
+      "pos": [
+        836.919922,
+        5.997505,
+        1939.559937
+      ],
+      "ypr": [
+        -106.444283,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Hoodie_Black",
+      "pos": [
+        837.836975,
+        6.881736,
+        1937.916748
+      ],
+      "ypr": [
+        -149.209839,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Jeans_Brown",
+      "pos": [
+        839.1203,
+        5.982164,
+        1937.58728
+      ],
+      "ypr": [
+        67.447113,
+        0.0,
+        0.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4A1",
+      "pos": [
+        840.225769,
+        6.007879,
+        1942.08374
+      ],
+      "ypr": [
+        174.528625,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_PlasticHndgrd",
+      "pos": [
+        840.088562,
+        6.002324,
+        1942.974365
+      ],
+      "ypr": [
+        46.281361,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "M4_OEBttstck",
+      "pos": [
+        841.293396,
+        6.012445,
+        1941.900269
+      ],
+      "ypr": [
+        -5.037396,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Ammo_GrenadeM4",
+      "pos": [
+        842.056091,
+        6.014616,
+        1939.732178
+      ],
+      "ypr": [
+        -120.935707,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_30Rnd",
+      "pos": [
+        840.820923,
+        5.995583,
+        1943.134766
+      ],
+      "ypr": [
+        72.583382,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Deagle",
+      "pos": [
+        841.604858,
+        5.995583,
+        1942.35144
+      ],
+      "ypr": [
+        -174.89119,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "Mag_CMAG_30Rnd",
+      "pos": [
+        837.521484,
+        6.007878,
+        1941.892944
+      ],
+      "ypr": [
+        -49.950893,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    },
+    {
+      "name": "AntiChemInjector",
+      "pos": [
+        837.908081,
+        5.992389,
+        1941.606201
+      ],
+      "ypr": [
+        -135.67981,
+        90.0,
+        -180.0
+      ],
+      "enableCEPersistency": false
+    }
+  ]
+}
