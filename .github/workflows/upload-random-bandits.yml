@@ -1,38 +1,82 @@
-name: Upload random bandits
+name: Upload random bandit files every 2 hours
 
 on:
   schedule:
+    # Run at the top of every other hour
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
-  upload-random-bandits:
+  upload:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Select random bandit files
+      - name: Select fifteen random bandit files
         run: |
-          prefix_list=$(ls *_bandit*.json | awk -F '_' '{print $1}' | sort -u)
-          prefixes=( $(echo "$prefix_list" | shuf -n 15) )
-          for i in {1..15}; do
-            p="${prefixes[$((i-1))]}"
-            chosen=$(ls "${p}"_bandit*.json | shuf -n 1)
-            echo "FILES[$i]=$chosen" >> $GITHUB_ENV
-            echo "REMOTES[$i]=${i}_bandit.json" >> $GITHUB_ENV
+          # Build a list of unique numeric prefixes from the available bandit JSON files
+          mapfile -t unique_nums < <(ls *_bandit_var*.json | awk -F '_' '{print $1}' | sort -u)
+          # Shuffle the list and take up to 15 prefixes
+          selected_nums=( $(printf "%s\n" "${unique_nums[@]}" | shuf -n 15) )
+          # For each selected prefix, choose a random variant file and export it as FILE1..FILE15
+          for idx in "${!selected_nums[@]}"; do
+            num="${selected_nums[$idx]}"
+            # List all variant files for this prefix
+            versions=( $(ls "${num}_bandit_var"*.json) )
+            # Pick one at random
+            selected_file="${versions[$RANDOM % ${#versions[@]}]}"
+            echo "FILE$((idx+1))=${selected_file}" >> "$GITHUB_ENV"
           done
 
-      - name: Upload bandit files via FTP
+      - name: Upload selected files via FTP
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
-          FTP_PORT: ${{ secrets.FTP_PORT }}
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-          FTP_BASE_PATH: ${{ secrets.FTP_BASE_PATH }}
         run: |
-          for i in {1..15}; do
-            local_file="${FILES[$i]}"
-            remote_file="${REMOTES[$i]}"
-            curl --ftp-ssl -T "$local_file" -u "$FTP_USERNAME:$FTP_PASSWORD" "ftp://$FTP_HOST:$FTP_PORT$FTP_BASE_PATH$remote_file"
+          # Define the remote paths for the 15 bandit files. These paths must exist on the server.
+          remote_paths=(
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/1_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/2_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/3_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/4_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/5_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/6_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/7_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/8_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/9_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/10_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/11_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/12_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/13_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/14_bandit.json"
+            "/dayzps_missions/dayzOffline.chernarusplus/custom/15_bandit.json"
+          )
+          # Build an array of local files from the exported environment variables
+          files=(
+            "$FILE1"
+            "$FILE2"
+            "$FILE3"
+            "$FILE4"
+            "$FILE5"
+            "$FILE6"
+            "$FILE7"
+            "$FILE8"
+            "$FILE9"
+            "$FILE10"
+            "$FILE11"
+            "$FILE12"
+            "$FILE13"
+            "$FILE14"
+            "$FILE15"
+          )
+          # Loop through each file and upload it to the corresponding remote path
+          for i in "${!files[@]}"; do
+            local_file="${files[$i]}"
+            remote_path="${remote_paths[$i]}"
+            echo "Uploading $local_file to $remote_path"
+            curl --ftp-method nocwd --ftp-pasv --disable-epsv \
+              -T "$local_file" \
+              "ftp://${FTP_USERNAME}:${FTP_PASSWORD}@${FTP_HOST}${remote_path}"
           done
