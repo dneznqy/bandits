@@ -31,7 +31,9 @@ jobs:
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           FTP_BASE_PATH: ${{ secrets.FTP_BASE_PATH }}
-        run: |
-        for i in {1..15}; do
-    curl --ftp-ssl -T "${FILES[$i]}" -u "$FTP_USERNAME:$FTP_PASSWORD" "ftp://$FTP_HOST:$FTP_PORT$FTP_BASE_PATH${REMOTES[$i]}"
-  done
+         run: |
+            for i in {1..15}; do
+            local_file="${FILES[$i]}"
+            remote_file="${REMOTES[$i]}"
+            curl --ftp-ssl -T "$local_file" -u "$FTP_USERNAME:$FTP_PASSWORD" "ftp://$FTP_HOST:$FTP_PORT$FTP_BASE_PATH$remote_file"
+          done
