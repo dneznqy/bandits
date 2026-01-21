@@ -14,14 +14,13 @@ jobs:
 
       - name: Select random bandit files
         run: |
-          # Get unique number prefixes from bandit files
-          prefixes=( $(ls *_bandit*.json | awk -F '_' '{print $1}' | sort -u | shuf -n 15) )
-          # Iterate through prefixes and select a random variant for each
+          prefix_list=$(ls *_bandit*.json | awk -F '_' '{print $1}' | sort -u)
+          prefixes=( $(echo "$prefix_list" | shuf -n 15) )
           for i in {1..15}; do
             p="${prefixes[$((i-1))]}"
             chosen=$(ls "${p}"_bandit*.json | shuf -n 1)
-            echo "FILES[$i]=\"$chosen\"" >> $GITHUB_ENV
-            echo "REMOTES[$i]=\"${i}_bandit.json\"" >> $GITHUB_ENV
+            echo "FILES[$i]=$chosen" >> $GITHUB_ENV
+            echo "REMOTES[$i]=${i}_bandit.json" >> $GITHUB_ENV
           done
 
       - name: Upload bandit files via FTP
