@@ -1,0 +1,37 @@
+name: Upload random bandits
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  upload-random-bandits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Select random bandit files
+        run: |
+          # Get unique number prefixes from bandit files
+          prefixes=( $(ls *_bandit*.json | awk -F '_' '{print $1}' | sort -u | shuf -n 15) )
+          # Iterate through prefixes and select a random variant for each
+          for i in {1..15}; do
+            p="${prefixes[$((i-1))]}"
+            chosen=$(ls "${p}"_bandit*.json | shuf -n 1)
+            echo "FILES[$i]=\"$chosen\"" >> $GITHUB_ENV
+            echo "REMOTES[$i]=\"${i}_bandit.json\"" >> $GITHUB_ENV
+          done
+
+      - name: Upload bandit files via FTP
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_PORT: ${{ secrets.FTP_PORT }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_BASE_PATH: ${{ secrets.FTP_BASE_PATH }}
+        run: |
+        for i in {1..15}; do
+    curl --ftp-ssl -T "${FILES[$i]}" -u "$FTP_USERNAME:$FTP_PASSWORD" "ftp://$FTP_HOST:$FTP_PORT$FTP_BASE_PATH${REMOTES[$i]}"
+  done
